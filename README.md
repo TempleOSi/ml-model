@@ -1,2 +1,2 @@
 # ml-model
-Here resides que model of machine learning needed for the correct implementation of the service
+Here resides the model of machine learning needed for the correct implementation of the service
